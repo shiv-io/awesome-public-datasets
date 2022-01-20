@@ -1618,3 +1618,20 @@ Complementary Collections
 
 * CVonline: `Image Databases <http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm/>`_
 
+* `Registry of Open Datasets on AWS <https://registry.opendata.aws/>`_
+
+* `HuggingFace Datasets <https://github.com/huggingface/datasets/>`_
+
+* `TensorFlow Datasets <https://github.com/tensorflow/datasets>`_
+
+* `Plotly Datasets <https://github.com/plotly/datasets>`_
+
+* `Microsoft Research Open Data <https://msropendata.com/>`_
+
+* `Google Datasets <https://datasetsearch.research.google.com/>`_
+
+* `Kaggle Datasets <https://www.kaggle.com/datasets>`_
+
+* `UCI Machine Learning Repository <https://archive.ics.uci.edu/ml/index.php>`_
+
+* `Azure Open Datasets <https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog>`_
